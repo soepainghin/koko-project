@@ -1,0 +1,49 @@
+/* box1 */
+.box1{
+    position: relative;
+    left: 200px;
+    border: 2px solid black;
+    width: 280px;
+    height: 400px;
+}
+.box1 img{
+    width: 280px;
+    height: 215px;
+}
+.box1 p{
+    text-align: center;
+}
+
+/* box2 */
+.box2{
+    position: relative;
+    left: 310px;
+    bottom: 397px;
+    border: 2px solid black;
+    width: 280px;
+    height: 400px;
+}
+.box2 img{
+    width: 280px;
+    height: 215px;
+}
+.box2 p{
+    text-align: center;
+}
+
+/* box3 */
+.box3{
+    position: relative;
+    left: 310px;
+    bottom: 397px;
+    border: 2px solid black;
+    width: 280px;
+    height: 400px;
+}
+.box3 img{
+    width: 280px;
+    height: 215px;
+}
+.box3 p{
+    text-align: center;
+}

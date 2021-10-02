@@ -1,0 +1,272 @@
+/* one */
+.box-one{
+    position: relative;
+    left: 100px;
+    border: 2px solid black;
+    width: 200px;
+    height: 305px;
+}
+.box-one img{
+width: 200px;
+height: 138px;
+}
+.box-one p{
+    text-align: center;
+}
+
+/* two */
+.box-two{
+    position: relative;
+    left: 319px;
+    bottom: 309px;
+    border: 2px solid black;
+    width: 200px;
+    height: 305px;
+}
+.box-two img{
+width: 200px;
+height: 138px;
+}
+.box-two p{
+    text-align: center;
+}
+
+/* three */
+.box-three{
+    position: relative;
+    left: 538px;
+    bottom: 618px;
+    border: 2px solid black;
+    width: 200px;
+    height: 305px;
+}
+.box-three img{
+width: 200px;
+height: 138px;
+}
+.box-three p{
+    text-align: center;
+}
+
+/* four */
+.box-four{
+    position: relative;
+    left: 757px;
+    bottom: 927px;
+    border: 2px solid black;
+    width: 200px;
+    height: 305px;
+}
+.box-four img{
+width: 200px;
+height: 138px;
+}
+.box-four p{
+    text-align: center;
+}
+
+/* five */
+.box-five{
+    position: relative;
+    left: 976px;
+    bottom: 1236px;
+    border: 2px solid black;
+    width: 200px;
+    height: 305px;
+}
+.box-five img{
+width: 200px;
+height: 138px;
+}
+.box-five p{
+    text-align: center;
+}
+
+/* six */
+.box-six{
+    position: relative;
+    left: 100px;
+    border: 2px solid black;
+    width: 200px;
+    height: 305px;
+}
+.box-six img{
+width: 200px;
+height: 138px;
+}
+.box-six p{
+    text-align: center;
+}
+
+/* seven */
+.box-seven{
+    position: relative;
+    left: 319px;
+    bottom: 309px;
+    border: 2px solid black;
+    width: 200px;
+    height: 305px;
+}
+.box-seven img{
+width: 200px;
+height: 138px;
+}
+.box-seven p{
+    text-align: center;
+}
+
+/* eight */
+.box-eight{
+    position: relative;
+    left: 538px;
+    bottom: 618px;
+    border: 2px solid black;
+    width: 200px;
+    height: 305px;
+}
+.box-eight img{
+width: 200px;
+height: 138px;
+}
+.box-eight p{
+    text-align: center;
+}
+
+/* nine */
+.box-nine{
+    position: relative;
+    left: 757px;
+    bottom: 927px;
+    border: 2px solid black;
+    width: 200px;
+    height: 305px;
+}
+.box-nine img{
+width: 200px;
+height: 138px;
+}
+.box-nine p{
+    text-align: center;
+}
+
+/* ten */
+.box-ten{
+    position: relative;
+    left: 976px;
+    bottom: 1236px;
+    border: 2px solid black;
+    width: 200px;
+    height: 305px;
+}
+.box-ten img{
+width: 200px;
+height: 138px;
+}
+.box-ten p{
+    text-align: center;
+  }
+  
+
+/* container */
+.thing2{
+    position: relative;
+    bottom: 1221px;
+}
+.but{
+    position: relative;
+    left: 105px;
+    bottom: 5px;
+    background-color: skyblue;
+    border: 2px solid skyblue;
+    color: black;
+}
+
+/* eleven */
+.box-eleven{
+    position: relative;
+    left: 100px;
+    border: 2px solid black;
+    width: 200px;
+    height: 305px;
+}
+.box-eleven img{
+width: 200px;
+height: 138px;
+}
+.box-eleven p{
+    text-align: center;
+}
+
+/* twelve */
+.box-twelve{
+    position: relative;
+    left: 319px;
+    bottom: 309px;
+    border: 2px solid black;
+    width: 200px;
+    height: 305px;
+}
+.box-twelve img{
+width: 200px;
+height: 138px;
+}
+.box-twelve p{
+    text-align: center;
+}
+
+/* thirteen */
+.box-thirteen{
+    position: relative;
+    left: 538px;
+    bottom: 618px;
+    border: 2px solid black;
+    width: 200px;
+    height: 305px;
+}
+.box-thirteen img{
+width: 200px;
+height: 138px;
+}
+.box-thirteen p{
+    text-align: center;
+}
+
+/* fourteen */
+.box-fourteen{
+    position: relative;
+    left: 757px;
+    bottom: 927px;
+    border: 2px solid black;
+    width: 200px;
+    height: 305px;
+}
+.box-fourteen img{
+width: 200px;
+height: 138px;
+}
+.box-fourteen p{
+    text-align: center;
+}
+
+/* fifteen */
+.box-fifteen{
+    position: relative;
+    left: 976px;
+    bottom: 1236px;
+    border: 2px solid black;
+    width: 200px;
+    height: 305px;
+}
+.box-fifteen img{
+width: 200px;
+height: 138px;
+}
+.box-fifteen p{
+    text-align: center;
+  }
+
+  /* container */
+.thing3{
+    position: relative;
+    bottom: 1100px;
+}
